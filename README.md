@@ -1,4 +1,4 @@
-# codeigniter-modular-extensions-hmvc
+# hmvc-codeigniter-modular-extensions
 Install CodeIgniter-Modular-Extensions-HMVC (WireDesignz) via Composer.
 
 This is a fork of WireDesignz Codeigniter-Modular-Extensions-HMVC, bitbucket commit #789c983 (07-02-2015).
